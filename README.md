@@ -11,6 +11,6 @@
 - [Reactive Extensions (Rx) – Part 3 – 命名约定](docs/3/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 4 – 替换计时器](docs/4/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 5 – 等待可观察对象](docs/5/README.zh-CN.md)（完成）
-- [Reactive Extensions (Rx) – Part 6 – Task ToObservable](docs/6/README.md)
+- [Reactive Extensions (Rx) – Part 6 – 将任务转为可观察对象](docs/6/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 7 – Sample Events](docs/7/README.md)
 - [Reactive Extensions (Rx) – Part 8 – Timeouts](docs/8/README.md)
