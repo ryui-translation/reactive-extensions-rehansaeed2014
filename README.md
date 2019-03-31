@@ -6,9 +6,9 @@
 
 ## 目录
 
-- [Reactive Extensions (Rx) – Part 1 – Replacing C# Events](docs/1/README.zh-CN.md)（完成）
-- [Reactive Extensions (Rx) – Part 2 – Wrapping C# Events](docs/2/README.zh-CN.md)（完成）
-- [Reactive Extensions (Rx) – Part 3 – Naming Conventions](docs/3/README.md)
+- [Reactive Extensions (Rx) – Part 1 – 替换 C# 事件](docs/1/README.zh-CN.md)（完成）
+- [Reactive Extensions (Rx) – Part 2 – 包装 C# 事件](docs/2/README.zh-CN.md)（完成）
+- [Reactive Extensions (Rx) – Part 3 – 命名约定](docs/3/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 4 – Replacing Timers](docs/4/README.md)
 - [Reactive Extensions (Rx) – Part 5 – Awaiting Observables](docs/5/README.md)
 - [Reactive Extensions (Rx) – Part 6 – Task ToObservable](docs/6/README.md)
