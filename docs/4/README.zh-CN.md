@@ -2,7 +2,7 @@
 
 [原文](https://rehansaeed.com/reactive-extensions-part4-replacing-timers/)，[英文](README.md)
 
-Reactive Extensions (Rx) 是一个非常庞大的类库。在这一系列的博文中，我会努力说明使用 Rx 可以显著改善和/或简化实际应用程序的代码。到目前为止，我已经讨论了如何使用 Rx 替换标准 C# 事件（standard C# events）以及如何使用可观察事件（observables）来包装 C# 事件。
+Reactive Extensions (Rx) 是一个非常庞大的类库。在这一系列的博文中，我会努力说明使用 Rx 可以显著改善和/或简化实际应用程序的代码。到目前为止，我已经讨论了如何使用 Rx 替换标准 C# 事件（standard C# events）以及如何使用可观察对象（observables）来包装 C# 事件。
 
 本文将讨论如何通过 Rx 提供一个比现有的 .NET API 更友好的 API 门面（a nicer API surface）。特别是我会提到 .NET 计时器（.NET Timers）。在 .NET Framework 中（译者注，此处是指 nfx，不是 .net core，作者文章成于 2014 年）有多个不通过的计时器，主要是 [System.Threading.Timer](https://msdn.microsoft.com/en-us/library/system.threading.timer%28v=vs.110%29.aspx) 和 [System.Timers.Timer](https://msdn.microsoft.com/en-us/library/system.threading.timer%28v=vs.110%29.aspx) 这两个。每种计时器都有优缺点，但我不打算详解孰优孰劣，你可以在[这篇对话中](https://stackoverflow.com/questions/1416803/system-timers-timer-vs-system-threading-timer)详细比较它们的异同。
 
@@ -114,4 +114,4 @@ public void StartTimerOnUIThread()
 
 ## 小结
 
-如果你还未使用过 Reactive Extensions，那么我们继续，因为本文还未展示订阅前通过 Linq 方法修改可观察事件（observable）的能力。
+如果你还未使用过 Reactive Extensions，那么我们继续，因为本文还未展示订阅前通过 Linq 方法修改可观察对象的能力。
