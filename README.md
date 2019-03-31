@@ -13,4 +13,4 @@
 - [Reactive Extensions (Rx) – Part 5 – 等待可观察对象](docs/5/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 6 – 将任务转为可观察对象](docs/6/README.zh-CN.md)（完成）
 - [Reactive Extensions (Rx) – Part 7 – Sample 事件](docs/7/README.zh-CN.md)（完成）
-- [Reactive Extensions (Rx) – Part 8 – Timeouts](docs/8/README.md)
+- [Reactive Extensions (Rx) – Part 8 – 超时](docs/8/README.zh-CN.md)（完成）
